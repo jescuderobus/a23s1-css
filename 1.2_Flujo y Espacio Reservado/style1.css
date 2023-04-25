@@ -1,0 +1,12 @@
+/*
+.container{
+    outline: 5px solid red;
+}
+*/
+
+.container p {
+    padding: 1rem;
+    border: 10px solid;
+    opacity: 0.1;
+    display: none;
+}

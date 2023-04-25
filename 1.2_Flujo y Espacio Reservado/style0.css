@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.p-2{
+    order: -1;
+    background: tomato;
+}
+
+:not(.p-2){
+    order: 10000;
+}
