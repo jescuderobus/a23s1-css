@@ -1,0 +1,14 @@
+/*
+position: static | relative | absolute | fixed | sticky 
+*/
+
+.container{
+    outline: 1px solid blue;
+    height: 100px;
+}
+.p-2{
+    position:relative;
+    background: tomato;
+    opacity: 0.5;
+    right: 50%; /* probar con top, bottom, left, right*/
+}

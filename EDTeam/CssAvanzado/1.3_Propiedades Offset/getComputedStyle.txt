@@ -1,0 +1,2910 @@
+getComputedStyle($0)
+CSS2Properties(358) { "accent-color" → "auto", "align-content" → "normal", "align-items" → "normal", "align-self" → "auto", "animation-delay" → "0s", "animation-direction" → "normal", "animation-duration" → "0s", "animation-fill-mode" → "none", "animation-iteration-count" → "1", "animation-name" → "none", … }
+​
+"-moz-animation": "0s ease 0s 1 normal none running none"
+​
+"-moz-animation-delay": "0s"
+​
+"-moz-animation-direction": "normal"
+​
+"-moz-animation-duration": "0s"
+​
+"-moz-animation-fill-mode": "none"
+​
+"-moz-animation-iteration-count": "1"
+​
+"-moz-animation-name": "none"
+​
+"-moz-animation-play-state": "running"
+​
+"-moz-animation-timing-function": "ease"
+​
+"-moz-appearance": "none"
+​
+"-moz-backface-visibility": "visible"
+​
+"-moz-border-end": "0px none rgb(0, 0, 0)"
+​
+"-moz-border-end-color": "rgb(0, 0, 0)"
+​
+"-moz-border-end-style": "none"
+​
+"-moz-border-end-width": "0px"
+​
+"-moz-border-image": "none 100% / 1 / 0 stretch"
+​
+"-moz-border-start": "0px none rgb(0, 0, 0)"
+​
+"-moz-border-start-color": "rgb(0, 0, 0)"
+​
+"-moz-border-start-style": "none"
+​
+"-moz-border-start-width": "0px"
+​
+"-moz-box-align": "stretch"
+​
+"-moz-box-direction": "normal"
+​
+"-moz-box-flex": "0"
+​
+"-moz-box-ordinal-group": "1"
+​
+"-moz-box-orient": "horizontal"
+​
+"-moz-box-pack": "start"
+​
+"-moz-box-sizing": "content-box"
+​
+"-moz-float-edge": "content-box"
+​
+"-moz-font-feature-settings": "normal"
+​
+"-moz-font-language-override": "normal"
+​
+"-moz-force-broken-image-icon": "0"
+​
+"-moz-hyphens": "manual"
+​
+"-moz-margin-end": "0px"
+​
+"-moz-margin-start": "0px"
+​
+"-moz-orient": "inline"
+​
+"-moz-padding-end": "0px"
+​
+"-moz-padding-start": "0px"
+​
+"-moz-perspective": "none"
+​
+"-moz-perspective-origin": "590px 118.433px"
+​
+"-moz-tab-size": "8"
+​
+"-moz-text-size-adjust": "auto"
+​
+"-moz-transform": "none"
+​
+"-moz-transform-origin": "590px 118.433px"
+​
+"-moz-transform-style": "flat"
+​
+"-moz-transition": "all 0s ease 0s"
+​
+"-moz-transition-delay": "0s"
+​
+"-moz-transition-duration": "0s"
+​
+"-moz-transition-property": "all"
+​
+"-moz-transition-timing-function": "ease"
+​
+"-moz-user-focus": "none"
+​
+"-moz-user-input": "auto"
+​
+"-moz-user-modify": "read-only"
+​
+"-moz-user-select": "auto"
+​
+"-moz-window-dragging": "default"
+​
+"-webkit-align-content": "normal"
+​
+"-webkit-align-items": "normal"
+​
+"-webkit-align-self": "auto"
+​
+"-webkit-animation": "0s ease 0s 1 normal none running none"
+​
+"-webkit-animation-delay": "0s"
+​
+"-webkit-animation-direction": "normal"
+​
+"-webkit-animation-duration": "0s"
+​
+"-webkit-animation-fill-mode": "none"
+​
+"-webkit-animation-iteration-count": "1"
+​
+"-webkit-animation-name": "none"
+​
+"-webkit-animation-play-state": "running"
+​
+"-webkit-animation-timing-function": "ease"
+​
+"-webkit-appearance": "none"
+​
+"-webkit-backface-visibility": "visible"
+​
+"-webkit-background-clip": "border-box"
+​
+"-webkit-background-origin": "padding-box"
+​
+"-webkit-background-size": "auto"
+​
+"-webkit-border-bottom-left-radius": "0px"
+​
+"-webkit-border-bottom-right-radius": "0px"
+​
+"-webkit-border-image": "none 100% / 1 / 0 stretch"
+​
+"-webkit-border-radius": "0px"
+​
+"-webkit-border-top-left-radius": "0px"
+​
+"-webkit-border-top-right-radius": "0px"
+​
+"-webkit-box-align": "stretch"
+​
+"-webkit-box-direction": "normal"
+​
+"-webkit-box-flex": "0"
+​
+"-webkit-box-ordinal-group": "1"
+​
+"-webkit-box-orient": "horizontal"
+​
+"-webkit-box-pack": "start"
+​
+"-webkit-box-shadow": "none"
+​
+"-webkit-box-sizing": "content-box"
+​
+"-webkit-clip-path": "none"
+​
+"-webkit-filter": "none"
+​
+"-webkit-flex": "0 1 auto"
+​
+"-webkit-flex-basis": "auto"
+​
+"-webkit-flex-direction": "row"
+​
+"-webkit-flex-flow": "row nowrap"
+​
+"-webkit-flex-grow": "0"
+​
+"-webkit-flex-shrink": "1"
+​
+"-webkit-flex-wrap": "nowrap"
+​
+"-webkit-justify-content": "normal"
+​
+"-webkit-line-clamp": "none"
+​
+"-webkit-mask": "none"
+​
+"-webkit-mask-clip": "border-box"
+​
+"-webkit-mask-composite": "add"
+​
+"-webkit-mask-image": "none"
+​
+"-webkit-mask-origin": "border-box"
+​
+"-webkit-mask-position": "0% 0%"
+​
+"-webkit-mask-position-x": "0%"
+​
+"-webkit-mask-position-y": "0%"
+​
+"-webkit-mask-repeat": "repeat"
+​
+"-webkit-mask-size": "auto"
+​
+"-webkit-order": "0"
+​
+"-webkit-perspective": "none"
+​
+"-webkit-perspective-origin": "590px 118.433px"
+​
+"-webkit-text-fill-color": "rgb(0, 0, 0)"
+​
+"-webkit-text-size-adjust": "auto"
+​
+"-webkit-text-stroke": "0px rgb(0, 0, 0)"
+​
+"-webkit-text-stroke-color": "rgb(0, 0, 0)"
+​
+"-webkit-text-stroke-width": "0px"
+​
+"-webkit-transform": "none"
+​
+"-webkit-transform-origin": "590px 118.433px"
+​
+"-webkit-transform-style": "flat"
+​
+"-webkit-transition": "all 0s ease 0s"
+​
+"-webkit-transition-delay": "0s"
+​
+"-webkit-transition-duration": "0s"
+​
+"-webkit-transition-property": "all"
+​
+"-webkit-transition-timing-function": "ease"
+​
+"-webkit-user-select": "auto"
+​
+0: "accent-color"
+​
+1: "align-content"
+​
+2: "align-items"
+​
+3: "align-self"
+​
+4: "animation-delay"
+​
+5: "animation-direction"
+​
+6: "animation-duration"
+​
+7: "animation-fill-mode"
+​
+8: "animation-iteration-count"
+​
+9: "animation-name"
+​
+10: "animation-play-state"
+​
+11: "animation-timing-function"
+​
+12: "appearance"
+​
+13: "aspect-ratio"
+​
+14: "backdrop-filter"
+​
+15: "backface-visibility"
+​
+16: "background-attachment"
+​
+17: "background-blend-mode"
+​
+18: "background-clip"
+​
+19: "background-color"
+​
+20: "background-image"
+​
+21: "background-origin"
+​
+22: "background-position-x"
+​
+23: "background-position-y"
+​
+24: "background-repeat"
+​
+25: "background-size"
+​
+26: "block-size"
+​
+27: "border-block-end-color"
+​
+28: "border-block-end-style"
+​
+29: "border-block-end-width"
+​
+30: "border-block-start-color"
+​
+31: "border-block-start-style"
+​
+32: "border-block-start-width"
+​
+33: "border-bottom-color"
+​
+34: "border-bottom-left-radius"
+​
+35: "border-bottom-right-radius"
+​
+36: "border-bottom-style"
+​
+37: "border-bottom-width"
+​
+38: "border-collapse"
+​
+39: "border-end-end-radius"
+​
+40: "border-end-start-radius"
+​
+41: "border-image-outset"
+​
+42: "border-image-repeat"
+​
+43: "border-image-slice"
+​
+44: "border-image-source"
+​
+45: "border-image-width"
+​
+46: "border-inline-end-color"
+​
+47: "border-inline-end-style"
+​
+48: "border-inline-end-width"
+​
+49: "border-inline-start-color"
+​
+50: "border-inline-start-style"
+​
+51: "border-inline-start-width"
+​
+52: "border-left-color"
+​
+53: "border-left-style"
+​
+54: "border-left-width"
+​
+55: "border-right-color"
+​
+56: "border-right-style"
+​
+57: "border-right-width"
+​
+58: "border-spacing"
+​
+59: "border-start-end-radius"
+​
+60: "border-start-start-radius"
+​
+61: "border-top-color"
+​
+62: "border-top-left-radius"
+​
+63: "border-top-right-radius"
+​
+64: "border-top-style"
+​
+65: "border-top-width"
+​
+66: "bottom"
+​
+67: "box-decoration-break"
+​
+68: "box-shadow"
+​
+69: "box-sizing"
+​
+70: "break-after"
+​
+71: "break-before"
+​
+72: "break-inside"
+​
+73: "caption-side"
+​
+74: "caret-color"
+​
+75: "clear"
+​
+76: "clip"
+​
+77: "clip-path"
+​
+78: "clip-rule"
+​
+79: "color"
+​
+80: "color-interpolation"
+​
+81: "color-interpolation-filters"
+​
+82: "color-scheme"
+​
+83: "column-count"
+​
+84: "column-fill"
+​
+85: "column-gap"
+​
+86: "column-rule-color"
+​
+87: "column-rule-style"
+​
+88: "column-rule-width"
+​
+89: "column-span"
+​
+90: "column-width"
+​
+91: "contain"
+​
+92: "contain-intrinsic-block-size"
+​
+93: "contain-intrinsic-height"
+​
+94: "contain-intrinsic-inline-size"
+​
+95: "contain-intrinsic-width"
+​
+96: "container-name"
+​
+97: "container-type"
+​
+98: "content"
+​
+99: "counter-increment"
+​
+100: "counter-reset"
+​
+101: "counter-set"
+​
+102: "cursor"
+​
+103: "cx"
+​
+104: "cy"
+​
+105: "d"
+​
+106: "direction"
+​
+107: "display"
+​
+108: "dominant-baseline"
+​
+109: "empty-cells"
+​
+110: "fill"
+​
+111: "fill-opacity"
+​
+112: "fill-rule"
+​
+113: "filter"
+​
+114: "flex-basis"
+​
+115: "flex-direction"
+​
+116: "flex-grow"
+​
+117: "flex-shrink"
+​
+118: "flex-wrap"
+​
+119: "float"
+​
+120: "flood-color"
+​
+121: "flood-opacity"
+​
+122: "font-family"
+​
+123: "font-feature-settings"
+​
+124: "font-kerning"
+​
+125: "font-language-override"
+​
+126: "font-optical-sizing"
+​
+127: "font-palette"
+​
+128: "font-size"
+​
+129: "font-size-adjust"
+​
+130: "font-stretch"
+​
+131: "font-style"
+​
+132: "font-synthesis-small-caps"
+​
+133: "font-synthesis-style"
+​
+134: "font-synthesis-weight"
+​
+135: "font-variant-alternates"
+​
+136: "font-variant-caps"
+​
+137: "font-variant-east-asian"
+​
+138: "font-variant-ligatures"
+​
+139: "font-variant-numeric"
+​
+140: "font-variant-position"
+​
+141: "font-variation-settings"
+​
+142: "font-weight"
+​
+143: "grid-auto-columns"
+​
+144: "grid-auto-flow"
+​
+145: "grid-auto-rows"
+​
+146: "grid-column-end"
+​
+147: "grid-column-start"
+​
+148: "grid-row-end"
+​
+149: "grid-row-start"
+​
+150: "grid-template-areas"
+​
+151: "grid-template-columns"
+​
+152: "grid-template-rows"
+​
+153: "height"
+​
+154: "hyphenate-character"
+​
+155: "hyphens"
+​
+156: "image-orientation"
+​
+157: "image-rendering"
+​
+158: "ime-mode"
+​
+159: "inline-size"
+​
+160: "inset-block-end"
+​
+161: "inset-block-start"
+​
+162: "inset-inline-end"
+​
+163: "inset-inline-start"
+​
+164: "isolation"
+​
+165: "justify-content"
+​
+166: "justify-items"
+​
+167: "justify-self"
+​
+168: "left"
+​
+169: "letter-spacing"
+​
+170: "lighting-color"
+​
+171: "line-break"
+​
+172: "line-height"
+​
+173: "list-style-image"
+​
+174: "list-style-position"
+​
+175: "list-style-type"
+​
+176: "margin-block-end"
+​
+177: "margin-block-start"
+​
+178: "margin-bottom"
+​
+179: "margin-inline-end"
+​
+180: "margin-inline-start"
+​
+181: "margin-left"
+​
+182: "margin-right"
+​
+183: "margin-top"
+​
+184: "marker-end"
+​
+185: "marker-mid"
+​
+186: "marker-start"
+​
+187: "mask-clip"
+​
+188: "mask-composite"
+​
+189: "mask-image"
+​
+190: "mask-mode"
+​
+191: "mask-origin"
+​
+192: "mask-position-x"
+​
+193: "mask-position-y"
+​
+194: "mask-repeat"
+​
+195: "mask-size"
+​
+196: "mask-type"
+​
+197: "max-block-size"
+​
+198: "max-height"
+​
+199: "max-inline-size"
+​
+200: "max-width"
+​
+201: "min-block-size"
+​
+202: "min-height"
+​
+203: "min-inline-size"
+​
+204: "min-width"
+​
+205: "mix-blend-mode"
+​
+206: "object-fit"
+​
+207: "object-position"
+​
+208: "offset-anchor"
+​
+209: "offset-distance"
+​
+210: "offset-path"
+​
+211: "offset-rotate"
+​
+212: "opacity"
+​
+213: "order"
+​
+214: "outline-color"
+​
+215: "outline-offset"
+​
+216: "outline-style"
+​
+217: "outline-width"
+​
+218: "overflow-anchor"
+​
+219: "overflow-block"
+​
+220: "overflow-clip-margin"
+​
+221: "overflow-inline"
+​
+222: "overflow-wrap"
+​
+223: "overflow-x"
+​
+224: "overflow-y"
+​
+225: "overscroll-behavior-block"
+​
+226: "overscroll-behavior-inline"
+​
+227: "overscroll-behavior-x"
+​
+228: "overscroll-behavior-y"
+​
+229: "padding-block-end"
+​
+230: "padding-block-start"
+​
+231: "padding-bottom"
+​
+232: "padding-inline-end"
+​
+233: "padding-inline-start"
+​
+234: "padding-left"
+​
+235: "padding-right"
+​
+236: "padding-top"
+​
+237: "page"
+​
+238: "paint-order"
+​
+239: "perspective"
+​
+240: "perspective-origin"
+​
+241: "pointer-events"
+​
+242: "position"
+​
+243: "print-color-adjust"
+​
+244: "quotes"
+​
+245: "r"
+​
+246: "resize"
+​
+247: "right"
+​
+248: "rotate"
+​
+249: "row-gap"
+​
+250: "ruby-align"
+​
+251: "ruby-position"
+​
+252: "rx"
+​
+253: "ry"
+​
+254: "scale"
+​
+255: "scroll-behavior"
+​
+256: "scroll-margin-block-end"
+​
+257: "scroll-margin-block-start"
+​
+258: "scroll-margin-bottom"
+​
+259: "scroll-margin-inline-end"
+​
+260: "scroll-margin-inline-start"
+​
+261: "scroll-margin-left"
+​
+262: "scroll-margin-right"
+​
+263: "scroll-margin-top"
+​
+264: "scroll-padding-block-end"
+​
+265: "scroll-padding-block-start"
+​
+266: "scroll-padding-bottom"
+​
+267: "scroll-padding-inline-end"
+​
+268: "scroll-padding-inline-start"
+​
+269: "scroll-padding-left"
+​
+270: "scroll-padding-right"
+​
+271: "scroll-padding-top"
+​
+272: "scroll-snap-align"
+​
+273: "scroll-snap-stop"
+​
+274: "scroll-snap-type"
+​
+275: "scrollbar-color"
+​
+276: "scrollbar-gutter"
+​
+277: "scrollbar-width"
+​
+278: "shape-image-threshold"
+​
+279: "shape-margin"
+​
+280: "shape-outside"
+​
+281: "shape-rendering"
+​
+282: "stop-color"
+​
+283: "stop-opacity"
+​
+284: "stroke"
+​
+285: "stroke-dasharray"
+​
+286: "stroke-dashoffset"
+​
+287: "stroke-linecap"
+​
+288: "stroke-linejoin"
+​
+289: "stroke-miterlimit"
+​
+290: "stroke-opacity"
+​
+291: "stroke-width"
+​
+292: "tab-size"
+​
+293: "table-layout"
+​
+294: "text-align"
+​
+295: "text-align-last"
+​
+296: "text-anchor"
+​
+297: "text-combine-upright"
+​
+298: "text-decoration-color"
+​
+299: "text-decoration-line"
+​
+300: "text-decoration-skip-ink"
+​
+301: "text-decoration-style"
+​
+302: "text-decoration-thickness"
+​
+303: "text-emphasis-color"
+​
+304: "text-emphasis-position"
+​
+305: "text-emphasis-style"
+​
+306: "text-indent"
+​
+307: "text-justify"
+​
+308: "text-orientation"
+​
+309: "text-overflow"
+​
+310: "text-rendering"
+​
+311: "text-shadow"
+​
+312: "text-transform"
+​
+313: "text-underline-offset"
+​
+314: "text-underline-position"
+​
+315: "top"
+​
+316: "touch-action"
+​
+317: "transform"
+​
+318: "transform-box"
+​
+319: "transform-origin"
+​
+320: "transform-style"
+​
+321: "transition-delay"
+​
+322: "transition-duration"
+​
+323: "transition-property"
+​
+324: "transition-timing-function"
+​
+325: "translate"
+​
+326: "unicode-bidi"
+​
+327: "user-select"
+​
+328: "vector-effect"
+​
+329: "vertical-align"
+​
+330: "visibility"
+​
+331: "white-space"
+​
+332: "width"
+​
+333: "will-change"
+​
+334: "word-break"
+​
+335: "word-spacing"
+​
+336: "writing-mode"
+​
+337: "x"
+​
+338: "y"
+​
+339: "z-index"
+​
+340: "-moz-box-align"
+​
+341: "-moz-box-direction"
+​
+342: "-moz-box-flex"
+​
+343: "-moz-box-ordinal-group"
+​
+344: "-moz-box-orient"
+​
+345: "-moz-box-pack"
+​
+346: "-moz-float-edge"
+​
+347: "-moz-force-broken-image-icon"
+​
+348: "-moz-orient"
+​
+349: "-moz-text-size-adjust"
+​
+350: "-moz-user-focus"
+​
+351: "-moz-user-input"
+​
+352: "-moz-user-modify"
+​
+353: "-moz-window-dragging"
+​
+354: "-webkit-line-clamp"
+​
+355: "-webkit-text-fill-color"
+​
+356: "-webkit-text-stroke-color"
+​
+357: "-webkit-text-stroke-width"
+​
+MozAnimation: "0s ease 0s 1 normal none running none"
+​
+MozAnimationDelay: "0s"
+​
+MozAnimationDirection: "normal"
+​
+MozAnimationDuration: "0s"
+​
+MozAnimationFillMode: "none"
+​
+MozAnimationIterationCount: "1"
+​
+MozAnimationName: "none"
+​
+MozAnimationPlayState: "running"
+​
+MozAnimationTimingFunction: "ease"
+​
+MozAppearance: "none"
+​
+MozBackfaceVisibility: "visible"
+​
+MozBorderEnd: "0px none rgb(0, 0, 0)"
+​
+MozBorderEndColor: "rgb(0, 0, 0)"
+​
+MozBorderEndStyle: "none"
+​
+MozBorderEndWidth: "0px"
+​
+MozBorderImage: "none 100% / 1 / 0 stretch"
+​
+MozBorderStart: "0px none rgb(0, 0, 0)"
+​
+MozBorderStartColor: "rgb(0, 0, 0)"
+​
+MozBorderStartStyle: "none"
+​
+MozBorderStartWidth: "0px"
+​
+MozBoxAlign: "stretch"
+​
+MozBoxDirection: "normal"
+​
+MozBoxFlex: "0"
+​
+MozBoxOrdinalGroup: "1"
+​
+MozBoxOrient: "horizontal"
+​
+MozBoxPack: "start"
+​
+MozBoxSizing: "content-box"
+​
+MozFloatEdge: "content-box"
+​
+MozFontFeatureSettings: "normal"
+​
+MozFontLanguageOverride: "normal"
+​
+MozForceBrokenImageIcon: "0"
+​
+MozHyphens: "manual"
+​
+MozMarginEnd: "0px"
+​
+MozMarginStart: "0px"
+​
+MozOrient: "inline"
+​
+MozPaddingEnd: "0px"
+​
+MozPaddingStart: "0px"
+​
+MozPerspective: "none"
+​
+MozPerspectiveOrigin: "590px 118.433px"
+​
+MozTabSize: "8"
+​
+MozTextSizeAdjust: "auto"
+​
+MozTransform: "none"
+​
+MozTransformOrigin: "590px 118.433px"
+​
+MozTransformStyle: "flat"
+​
+MozTransition: "all 0s ease 0s"
+​
+MozTransitionDelay: "0s"
+​
+MozTransitionDuration: "0s"
+​
+MozTransitionProperty: "all"
+​
+MozTransitionTimingFunction: "ease"
+​
+MozUserFocus: "none"
+​
+MozUserInput: "auto"
+​
+MozUserModify: "read-only"
+​
+MozUserSelect: "auto"
+​
+MozWindowDragging: "default"
+​
+WebkitAlignContent: "normal"
+​
+WebkitAlignItems: "normal"
+​
+WebkitAlignSelf: "auto"
+​
+WebkitAnimation: "0s ease 0s 1 normal none running none"
+​
+WebkitAnimationDelay: "0s"
+​
+WebkitAnimationDirection: "normal"
+​
+WebkitAnimationDuration: "0s"
+​
+WebkitAnimationFillMode: "none"
+​
+WebkitAnimationIterationCount: "1"
+​
+WebkitAnimationName: "none"
+​
+WebkitAnimationPlayState: "running"
+​
+WebkitAnimationTimingFunction: "ease"
+​
+WebkitAppearance: "none"
+​
+WebkitBackfaceVisibility: "visible"
+​
+WebkitBackgroundClip: "border-box"
+​
+WebkitBackgroundOrigin: "padding-box"
+​
+WebkitBackgroundSize: "auto"
+​
+WebkitBorderBottomLeftRadius: "0px"
+​
+WebkitBorderBottomRightRadius: "0px"
+​
+WebkitBorderImage: "none 100% / 1 / 0 stretch"
+​
+WebkitBorderRadius: "0px"
+​
+WebkitBorderTopLeftRadius: "0px"
+​
+WebkitBorderTopRightRadius: "0px"
+​
+WebkitBoxAlign: "stretch"
+​
+WebkitBoxDirection: "normal"
+​
+WebkitBoxFlex: "0"
+​
+WebkitBoxOrdinalGroup: "1"
+​
+WebkitBoxOrient: "horizontal"
+​
+WebkitBoxPack: "start"
+​
+WebkitBoxShadow: "none"
+​
+WebkitBoxSizing: "content-box"
+​
+WebkitClipPath: "none"
+​
+WebkitFilter: "none"
+​
+WebkitFlex: "0 1 auto"
+​
+WebkitFlexBasis: "auto"
+​
+WebkitFlexDirection: "row"
+​
+WebkitFlexFlow: "row nowrap"
+​
+WebkitFlexGrow: "0"
+​
+WebkitFlexShrink: "1"
+​
+WebkitFlexWrap: "nowrap"
+​
+WebkitJustifyContent: "normal"
+​
+WebkitLineClamp: "none"
+​
+WebkitMask: "none"
+​
+WebkitMaskClip: "border-box"
+​
+WebkitMaskComposite: "add"
+​
+WebkitMaskImage: "none"
+​
+WebkitMaskOrigin: "border-box"
+​
+WebkitMaskPosition: "0% 0%"
+​
+WebkitMaskPositionX: "0%"
+​
+WebkitMaskPositionY: "0%"
+​
+WebkitMaskRepeat: "repeat"
+​
+WebkitMaskSize: "auto"
+​
+WebkitOrder: "0"
+​
+WebkitPerspective: "none"
+​
+WebkitPerspectiveOrigin: "590px 118.433px"
+​
+WebkitTextFillColor: "rgb(0, 0, 0)"
+​
+WebkitTextSizeAdjust: "auto"
+​
+WebkitTextStroke: "0px rgb(0, 0, 0)"
+​
+WebkitTextStrokeColor: "rgb(0, 0, 0)"
+​
+WebkitTextStrokeWidth: "0px"
+​
+WebkitTransform: "none"
+​
+WebkitTransformOrigin: "590px 118.433px"
+​
+WebkitTransformStyle: "flat"
+​
+WebkitTransition: "all 0s ease 0s"
+​
+WebkitTransitionDelay: "0s"
+​
+WebkitTransitionDuration: "0s"
+​
+WebkitTransitionProperty: "all"
+​
+WebkitTransitionTimingFunction: "ease"
+​
+WebkitUserSelect: "auto"
+​
+"accent-color": "auto"
+​
+accentColor: "auto"
+​
+"align-content": "normal"
+​
+"align-items": "normal"
+​
+"align-self": "auto"
+​
+alignContent: "normal"
+​
+alignItems: "normal"
+​
+alignSelf: "auto"
+​
+all: ""
+​
+animation: "0s ease 0s 1 normal none running none"
+​
+"animation-delay": "0s"
+​
+"animation-direction": "normal"
+​
+"animation-duration": "0s"
+​
+"animation-fill-mode": "none"
+​
+"animation-iteration-count": "1"
+​
+"animation-name": "none"
+​
+"animation-play-state": "running"
+​
+"animation-timing-function": "ease"
+​
+animationDelay: "0s"
+​
+animationDirection: "normal"
+​
+animationDuration: "0s"
+​
+animationFillMode: "none"
+​
+animationIterationCount: "1"
+​
+animationName: "none"
+​
+animationPlayState: "running"
+​
+animationTimingFunction: "ease"
+​
+appearance: "none"
+​
+"aspect-ratio": "auto"
+​
+aspectRatio: "auto"
+​
+"backdrop-filter": "none"
+​
+backdropFilter: "none"
+​
+"backface-visibility": "visible"
+​
+backfaceVisibility: "visible"
+​
+background: "none"
+​
+"background-attachment": "scroll"
+​
+"background-blend-mode": "normal"
+​
+"background-clip": "border-box"
+​
+"background-color": "rgba(0, 0, 0, 0)"
+​
+"background-image": "none"
+​
+"background-origin": "padding-box"
+​
+"background-position": "0% 0%"
+​
+"background-position-x": "0%"
+​
+"background-position-y": "0%"
+​
+"background-repeat": "repeat"
+​
+"background-size": "auto"
+​
+backgroundAttachment: "scroll"
+​
+backgroundBlendMode: "normal"
+​
+backgroundClip: "border-box"
+​
+backgroundColor: "rgba(0, 0, 0, 0)"
+​
+backgroundImage: "none"
+​
+backgroundOrigin: "padding-box"
+​
+backgroundPosition: "0% 0%"
+​
+backgroundPositionX: "0%"
+​
+backgroundPositionY: "0%"
+​
+backgroundRepeat: "repeat"
+​
+backgroundSize: "auto"
+​
+"block-size": "236.867px"
+​
+blockSize: "236.867px"
+​
+border: "0px none rgb(0, 0, 0)"
+​
+"border-block": "0px none rgb(0, 0, 0)"
+​
+"border-block-color": "rgb(0, 0, 0)"
+​
+"border-block-end": "0px none rgb(0, 0, 0)"
+​
+"border-block-end-color": "rgb(0, 0, 0)"
+​
+"border-block-end-style": "none"
+​
+"border-block-end-width": "0px"
+​
+"border-block-start": "0px none rgb(0, 0, 0)"
+​
+"border-block-start-color": "rgb(0, 0, 0)"
+​
+"border-block-start-style": "none"
+​
+"border-block-start-width": "0px"
+​
+"border-block-style": "none"
+​
+"border-block-width": "0px"
+​
+"border-bottom": "0px none rgb(0, 0, 0)"
+​
+"border-bottom-color": "rgb(0, 0, 0)"
+​
+"border-bottom-left-radius": "0px"
+​
+"border-bottom-right-radius": "0px"
+​
+"border-bottom-style": "none"
+​
+"border-bottom-width": "0px"
+​
+"border-collapse": "separate"
+​
+"border-color": "rgb(0, 0, 0)"
+​
+"border-end-end-radius": "0px"
+​
+"border-end-start-radius": "0px"
+​
+"border-image": "none 100% / 1 / 0 stretch"
+​
+"border-image-outset": "0"
+​
+"border-image-repeat": "stretch"
+​
+"border-image-slice": "100%"
+​
+"border-image-source": "none"
+​
+"border-image-width": "1"
+​
+"border-inline": "0px none rgb(0, 0, 0)"
+​
+"border-inline-color": "rgb(0, 0, 0)"
+​
+"border-inline-end": "0px none rgb(0, 0, 0)"
+​
+"border-inline-end-color": "rgb(0, 0, 0)"
+​
+"border-inline-end-style": "none"
+​
+"border-inline-end-width": "0px"
+​
+"border-inline-start": "0px none rgb(0, 0, 0)"
+​
+"border-inline-start-color": "rgb(0, 0, 0)"
+​
+"border-inline-start-style": "none"
+​
+"border-inline-start-width": "0px"
+​
+"border-inline-style": "none"
+​
+"border-inline-width": "0px"
+​
+"border-left": "0px none rgb(0, 0, 0)"
+​
+"border-left-color": "rgb(0, 0, 0)"
+​
+"border-left-style": "none"
+​
+"border-left-width": "0px"
+​
+"border-radius": "0px"
+​
+"border-right": "0px none rgb(0, 0, 0)"
+​
+"border-right-color": "rgb(0, 0, 0)"
+​
+"border-right-style": "none"
+​
+"border-right-width": "0px"
+​
+"border-spacing": "0px 0px"
+​
+"border-start-end-radius": "0px"
+​
+"border-start-start-radius": "0px"
+​
+"border-style": "none"
+​
+"border-top": "0px none rgb(0, 0, 0)"
+​
+"border-top-color": "rgb(0, 0, 0)"
+​
+"border-top-left-radius": "0px"
+​
+"border-top-right-radius": "0px"
+​
+"border-top-style": "none"
+​
+"border-top-width": "0px"
+​
+"border-width": "0px"
+​
+borderBlock: "0px none rgb(0, 0, 0)"
+​
+borderBlockColor: "rgb(0, 0, 0)"
+​
+borderBlockEnd: "0px none rgb(0, 0, 0)"
+​
+borderBlockEndColor: "rgb(0, 0, 0)"
+​
+borderBlockEndStyle: "none"
+​
+borderBlockEndWidth: "0px"
+​
+borderBlockStart: "0px none rgb(0, 0, 0)"
+​
+borderBlockStartColor: "rgb(0, 0, 0)"
+​
+borderBlockStartStyle: "none"
+​
+borderBlockStartWidth: "0px"
+​
+borderBlockStyle: "none"
+​
+borderBlockWidth: "0px"
+​
+borderBottom: "0px none rgb(0, 0, 0)"
+​
+borderBottomColor: "rgb(0, 0, 0)"
+​
+borderBottomLeftRadius: "0px"
+​
+borderBottomRightRadius: "0px"
+​
+borderBottomStyle: "none"
+​
+borderBottomWidth: "0px"
+​
+borderCollapse: "separate"
+​
+borderColor: "rgb(0, 0, 0)"
+​
+borderEndEndRadius: "0px"
+​
+borderEndStartRadius: "0px"
+​
+borderImage: "none 100% / 1 / 0 stretch"
+​
+borderImageOutset: "0"
+​
+borderImageRepeat: "stretch"
+​
+borderImageSlice: "100%"
+​
+borderImageSource: "none"
+​
+borderImageWidth: "1"
+​
+borderInline: "0px none rgb(0, 0, 0)"
+​
+borderInlineColor: "rgb(0, 0, 0)"
+​
+borderInlineEnd: "0px none rgb(0, 0, 0)"
+​
+borderInlineEndColor: "rgb(0, 0, 0)"
+​
+borderInlineEndStyle: "none"
+​
+borderInlineEndWidth: "0px"
+​
+borderInlineStart: "0px none rgb(0, 0, 0)"
+​
+borderInlineStartColor: "rgb(0, 0, 0)"
+​
+borderInlineStartStyle: "none"
+​
+borderInlineStartWidth: "0px"
+​
+borderInlineStyle: "none"
+​
+borderInlineWidth: "0px"
+​
+borderLeft: "0px none rgb(0, 0, 0)"
+​
+borderLeftColor: "rgb(0, 0, 0)"
+​
+borderLeftStyle: "none"
+​
+borderLeftWidth: "0px"
+​
+borderRadius: "0px"
+​
+borderRight: "0px none rgb(0, 0, 0)"
+​
+borderRightColor: "rgb(0, 0, 0)"
+​
+borderRightStyle: "none"
+​
+borderRightWidth: "0px"
+​
+borderSpacing: "0px 0px"
+​
+borderStartEndRadius: "0px"
+​
+borderStartStartRadius: "0px"
+​
+borderStyle: "none"
+​
+borderTop: "0px none rgb(0, 0, 0)"
+​
+borderTopColor: "rgb(0, 0, 0)"
+​
+borderTopLeftRadius: "0px"
+​
+borderTopRightRadius: "0px"
+​
+borderTopStyle: "none"
+​
+borderTopWidth: "0px"
+​
+borderWidth: "0px"
+​
+bottom: "auto"
+​
+"box-decoration-break": "slice"
+​
+"box-shadow": "none"
+​
+"box-sizing": "content-box"
+​
+boxDecorationBreak: "slice"
+​
+boxShadow: "none"
+​
+boxSizing: "content-box"
+​
+"break-after": "auto"
+​
+"break-before": "auto"
+​
+"break-inside": "auto"
+​
+breakAfter: "auto"
+​
+breakBefore: "auto"
+​
+breakInside: "auto"
+​
+"caption-side": "top"
+​
+captionSide: "top"
+​
+"caret-color": "rgb(0, 0, 0)"
+​
+caretColor: "rgb(0, 0, 0)"
+​
+clear: "none"
+​
+clip: "auto"
+​
+"clip-path": "none"
+​
+"clip-rule": "nonzero"
+​
+clipPath: "none"
+​
+clipRule: "nonzero"
+​
+color: "rgb(0, 0, 0)"
+​
+"color-adjust": "economy"
+​
+"color-interpolation": "srgb"
+​
+"color-interpolation-filters": "linearrgb"
+​
+"color-scheme": "normal"
+​
+colorAdjust: "economy"
+​
+colorInterpolation: "srgb"
+​
+colorInterpolationFilters: "linearrgb"
+​
+colorScheme: "normal"
+​
+"column-count": "auto"
+​
+"column-fill": "balance"
+​
+"column-gap": "normal"
+​
+"column-rule": "0px none rgb(0, 0, 0)"
+​
+"column-rule-color": "rgb(0, 0, 0)"
+​
+"column-rule-style": "none"
+​
+"column-rule-width": "0px"
+​
+"column-span": "none"
+​
+"column-width": "auto"
+​
+columnCount: "auto"
+​
+columnFill: "balance"
+​
+columnGap: "normal"
+​
+columnRule: "0px none rgb(0, 0, 0)"
+​
+columnRuleColor: "rgb(0, 0, 0)"
+​
+columnRuleStyle: "none"
+​
+columnRuleWidth: "0px"
+​
+columnSpan: "none"
+​
+columnWidth: "auto"
+​
+columns: "auto"
+​
+contain: "none"
+​
+"contain-intrinsic-block-size": "none"
+​
+"contain-intrinsic-height": "none"
+​
+"contain-intrinsic-inline-size": "none"
+​
+"contain-intrinsic-size": "none"
+​
+"contain-intrinsic-width": "none"
+​
+containIntrinsicBlockSize: "none"
+​
+containIntrinsicHeight: "none"
+​
+containIntrinsicInlineSize: "none"
+​
+containIntrinsicSize: "none"
+​
+containIntrinsicWidth: "none"
+​
+container: "none"
+​
+"container-name": "none"
+​
+"container-type": "normal"
+​
+containerName: "none"
+​
+containerType: "normal"
+​
+content: "normal"
+​
+"counter-increment": "none"
+​
+"counter-reset": "none"
+​
+"counter-set": "none"
+​
+counterIncrement: "none"
+​
+counterReset: "none"
+​
+counterSet: "none"
+​
+cssFloat: "none"
+​
+cssText: ""
+​
+cursor: "auto"
+​
+cx: "0px"
+​
+cy: "0px"
+​
+d: "none"
+​
+direction: "ltr"
+​
+display: "block"
+​
+"dominant-baseline": "auto"
+​
+dominantBaseline: "auto"
+​
+"empty-cells": "show"
+​
+emptyCells: "show"
+​
+fill: "rgb(0, 0, 0)"
+​
+"fill-opacity": "1"
+​
+"fill-rule": "nonzero"
+​
+fillOpacity: "1"
+​
+fillRule: "nonzero"
+​
+filter: "none"
+​
+flex: "0 1 auto"
+​
+"flex-basis": "auto"
+​
+"flex-direction": "row"
+​
+"flex-flow": "row nowrap"
+​
+"flex-grow": "0"
+​
+"flex-shrink": "1"
+​
+"flex-wrap": "nowrap"
+​
+flexBasis: "auto"
+​
+flexDirection: "row"
+​
+flexFlow: "row nowrap"
+​
+flexGrow: "0"
+​
+flexShrink: "1"
+​
+flexWrap: "nowrap"
+​
+float: "none"
+​
+"flood-color": "rgb(0, 0, 0)"
+​
+"flood-opacity": "1"
+​
+floodColor: "rgb(0, 0, 0)"
+​
+floodOpacity: "1"
+​
+font: "16px serif"
+​
+"font-family": "serif"
+​
+"font-feature-settings": "normal"
+​
+"font-kerning": "auto"
+​
+"font-language-override": "normal"
+​
+"font-optical-sizing": "auto"
+​
+"font-palette": "normal"
+​
+"font-size": "16px"
+​
+"font-size-adjust": "none"
+​
+"font-stretch": "100%"
+​
+"font-style": "normal"
+​
+"font-synthesis": "weight style small-caps"
+​
+"font-synthesis-small-caps": "auto"
+​
+"font-synthesis-style": "auto"
+​
+"font-synthesis-weight": "auto"
+​
+"font-variant": "normal"
+​
+"font-variant-alternates": "normal"
+​
+"font-variant-caps": "normal"
+​
+"font-variant-east-asian": "normal"
+​
+"font-variant-ligatures": "normal"
+​
+"font-variant-numeric": "normal"
+​
+"font-variant-position": "normal"
+​
+"font-variation-settings": "normal"
+​
+"font-weight": "400"
+​
+fontFamily: "serif"
+​
+fontFeatureSettings: "normal"
+​
+fontKerning: "auto"
+​
+fontLanguageOverride: "normal"
+​
+fontOpticalSizing: "auto"
+​
+fontPalette: "normal"
+​
+fontSize: "16px"
+​
+fontSizeAdjust: "none"
+​
+fontStretch: "100%"
+​
+fontStyle: "normal"
+​
+fontSynthesis: "weight style small-caps"
+​
+fontSynthesisSmallCaps: "auto"
+​
+fontSynthesisStyle: "auto"
+​
+fontSynthesisWeight: "auto"
+​
+fontVariant: "normal"
+​
+fontVariantAlternates: "normal"
+​
+fontVariantCaps: "normal"
+​
+fontVariantEastAsian: "normal"
+​
+fontVariantLigatures: "normal"
+​
+fontVariantNumeric: "normal"
+​
+fontVariantPosition: "normal"
+​
+fontVariationSettings: "normal"
+​
+fontWeight: "400"
+​
+gap: "normal"
+​
+grid: "none"
+​
+"grid-area": "auto"
+​
+"grid-auto-columns": "auto"
+​
+"grid-auto-flow": "row"
+​
+"grid-auto-rows": "auto"
+​
+"grid-column": "auto"
+​
+"grid-column-end": "auto"
+​
+"grid-column-gap": "normal"
+​
+"grid-column-start": "auto"
+​
+"grid-gap": "normal"
+​
+"grid-row": "auto"
+​
+"grid-row-end": "auto"
+​
+"grid-row-gap": "normal"
+​
+"grid-row-start": "auto"
+​
+"grid-template": "none"
+​
+"grid-template-areas": "none"
+​
+"grid-template-columns": "none"
+​
+"grid-template-rows": "none"
+​
+gridArea: "auto"
+​
+gridAutoColumns: "auto"
+​
+gridAutoFlow: "row"
+​
+gridAutoRows: "auto"
+​
+gridColumn: "auto"
+​
+gridColumnEnd: "auto"
+​
+gridColumnGap: "normal"
+​
+gridColumnStart: "auto"
+​
+gridGap: "normal"
+​
+gridRow: "auto"
+​
+gridRowEnd: "auto"
+​
+gridRowGap: "normal"
+​
+gridRowStart: "auto"
+​
+gridTemplate: "none"
+​
+gridTemplateAreas: "none"
+​
+gridTemplateColumns: "none"
+​
+gridTemplateRows: "none"
+​
+height: "236.867px"
+​
+"hyphenate-character": "auto"
+​
+hyphenateCharacter: "auto"
+​
+hyphens: "manual"
+​
+"image-orientation": "from-image"
+​
+"image-rendering": "auto"
+​
+imageOrientation: "from-image"
+​
+imageRendering: "auto"
+​
+"ime-mode": "auto"
+​
+imeMode: "auto"
+​
+"inline-size": "1180px"
+​
+inlineSize: "1180px"
+​
+inset: "auto"
+​
+"inset-block": "auto"
+​
+"inset-block-end": "auto"
+​
+"inset-block-start": "auto"
+​
+"inset-inline": "auto"
+​
+"inset-inline-end": "auto"
+​
+"inset-inline-start": "auto"
+​
+insetBlock: "auto"
+​
+insetBlockEnd: "auto"
+​
+insetBlockStart: "auto"
+​
+insetInline: "auto"
+​
+insetInlineEnd: "auto"
+​
+insetInlineStart: "auto"
+​
+isolation: "auto"
+​
+"justify-content": "normal"
+​
+"justify-items": "normal"
+​
+"justify-self": "auto"
+​
+justifyContent: "normal"
+​
+justifyItems: "normal"
+​
+justifySelf: "auto"
+​
+left: "auto"
+​
+length: 358
+​
+"letter-spacing": "normal"
+​
+letterSpacing: "normal"
+​
+"lighting-color": "rgb(255, 255, 255)"
+​
+lightingColor: "rgb(255, 255, 255)"
+​
+"line-break": "auto"
+​
+"line-height": "normal"
+​
+lineBreak: "auto"
+​
+lineHeight: "normal"
+​
+"list-style": "outside"
+​
+"list-style-image": "none"
+​
+"list-style-position": "outside"
+​
+"list-style-type": "disc"
+​
+listStyle: "outside"
+​
+listStyleImage: "none"
+​
+listStylePosition: "outside"
+​
+listStyleType: "disc"
+​
+margin: "0px"
+​
+"margin-block": "0px"
+​
+"margin-block-end": "0px"
+​
+"margin-block-start": "0px"
+​
+"margin-bottom": "0px"
+​
+"margin-inline": "0px"
+​
+"margin-inline-end": "0px"
+​
+"margin-inline-start": "0px"
+​
+"margin-left": "0px"
+​
+"margin-right": "0px"
+​
+"margin-top": "0px"
+​
+marginBlock: "0px"
+​
+marginBlockEnd: "0px"
+​
+marginBlockStart: "0px"
+​
+marginBottom: "0px"
+​
+marginInline: "0px"
+​
+marginInlineEnd: "0px"
+​
+marginInlineStart: "0px"
+​
+marginLeft: "0px"
+​
+marginRight: "0px"
+​
+marginTop: "0px"
+​
+marker: "none"
+​
+"marker-end": "none"
+​
+"marker-mid": "none"
+​
+"marker-start": "none"
+​
+markerEnd: "none"
+​
+markerMid: "none"
+​
+markerStart: "none"
+​
+mask: "none"
+​
+"mask-clip": "border-box"
+​
+"mask-composite": "add"
+​
+"mask-image": "none"
+​
+"mask-mode": "match-source"
+​
+"mask-origin": "border-box"
+​
+"mask-position": "0% 0%"
+​
+"mask-position-x": "0%"
+​
+"mask-position-y": "0%"
+​
+"mask-repeat": "repeat"
+​
+"mask-size": "auto"
+​
+"mask-type": "luminance"
+​
+maskClip: "border-box"
+​
+maskComposite: "add"
+​
+maskImage: "none"
+​
+maskMode: "match-source"
+​
+maskOrigin: "border-box"
+​
+maskPosition: "0% 0%"
+​
+maskPositionX: "0%"
+​
+maskPositionY: "0%"
+​
+maskRepeat: "repeat"
+​
+maskSize: "auto"
+​
+maskType: "luminance"
+​
+"max-block-size": "none"
+​
+"max-height": "none"
+​
+"max-inline-size": "none"
+​
+"max-width": "none"
+​
+maxBlockSize: "none"
+​
+maxHeight: "none"
+​
+maxInlineSize: "none"
+​
+maxWidth: "none"
+​
+"min-block-size": "0px"
+​
+"min-height": "0px"
+​
+"min-inline-size": "0px"
+​
+"min-width": "0px"
+​
+minBlockSize: "0px"
+​
+minHeight: "0px"
+​
+minInlineSize: "0px"
+​
+minWidth: "0px"
+​
+"mix-blend-mode": "normal"
+​
+mixBlendMode: "normal"
+​
+"object-fit": "fill"
+​
+"object-position": "50% 50%"
+​
+objectFit: "fill"
+​
+objectPosition: "50% 50%"
+​
+offset: "none"
+​
+"offset-anchor": "auto"
+​
+"offset-distance": "0px"
+​
+"offset-path": "none"
+​
+"offset-rotate": "auto"
+​
+offsetAnchor: "auto"
+​
+offsetDistance: "0px"
+​
+offsetPath: "none"
+​
+offsetRotate: "auto"
+​
+opacity: "1"
+​
+order: "0"
+​
+outline: "rgb(0, 0, 0) 0px"
+​
+"outline-color": "rgb(0, 0, 0)"
+​
+"outline-offset": "0px"
+​
+"outline-style": "none"
+​
+"outline-width": "0px"
+​
+outlineColor: "rgb(0, 0, 0)"
+​
+outlineOffset: "0px"
+​
+outlineStyle: "none"
+​
+outlineWidth: "0px"
+​
+overflow: "visible"
+​
+"overflow-anchor": "auto"
+​
+"overflow-block": "visible"
+​
+"overflow-clip-margin": "0px"
+​
+"overflow-inline": "visible"
+​
+"overflow-wrap": "normal"
+​
+"overflow-x": "visible"
+​
+"overflow-y": "visible"
+​
+overflowAnchor: "auto"
+​
+overflowBlock: "visible"
+​
+overflowClipMargin: "0px"
+​
+overflowInline: "visible"
+​
+overflowWrap: "normal"
+​
+overflowX: "visible"
+​
+overflowY: "visible"
+​
+"overscroll-behavior": "auto"
+​
+"overscroll-behavior-block": "auto"
+​
+"overscroll-behavior-inline": "auto"
+​
+"overscroll-behavior-x": "auto"
+​
+"overscroll-behavior-y": "auto"
+​
+overscrollBehavior: "auto"
+​
+overscrollBehaviorBlock: "auto"
+​
+overscrollBehaviorInline: "auto"
+​
+overscrollBehaviorX: "auto"
+​
+overscrollBehaviorY: "auto"
+​
+padding: "0px"
+​
+"padding-block": "0px"
+​
+"padding-block-end": "0px"
+​
+"padding-block-start": "0px"
+​
+"padding-bottom": "0px"
+​
+"padding-inline": "0px"
+​
+"padding-inline-end": "0px"
+​
+"padding-inline-start": "0px"
+​
+"padding-left": "0px"
+​
+"padding-right": "0px"
+​
+"padding-top": "0px"
+​
+paddingBlock: "0px"
+​
+paddingBlockEnd: "0px"
+​
+paddingBlockStart: "0px"
+​
+paddingBottom: "0px"
+​
+paddingInline: "0px"
+​
+paddingInlineEnd: "0px"
+​
+paddingInlineStart: "0px"
+​
+paddingLeft: "0px"
+​
+paddingRight: "0px"
+​
+paddingTop: "0px"
+​
+page: "auto"
+​
+"page-break-after": "auto"
+​
+"page-break-before": "auto"
+​
+"page-break-inside": "auto"
+​
+pageBreakAfter: "auto"
+​
+pageBreakBefore: "auto"
+​
+pageBreakInside: "auto"
+​
+"paint-order": "normal"
+​
+paintOrder: "normal"
+​
+parentRule: null
+​
+perspective: "none"
+​
+"perspective-origin": "590px 118.433px"
+​
+perspectiveOrigin: "590px 118.433px"
+​
+"place-content": "normal"
+​
+"place-items": "normal legacy"
+​
+"place-self": "auto"
+​
+placeContent: "normal"
+​
+placeItems: "normal legacy"
+​
+placeSelf: "auto"
+​
+"pointer-events": "auto"
+​
+pointerEvents: "auto"
+​
+position: "static"
+​
+"print-color-adjust": "economy"
+​
+printColorAdjust: "economy"
+​
+quotes: "auto"
+​
+r: "0px"
+​
+resize: "none"
+​
+right: "auto"
+​
+rotate: "none"
+​
+"row-gap": "normal"
+​
+rowGap: "normal"
+​
+"ruby-align": "space-around"
+​
+"ruby-position": "alternate"
+​
+rubyAlign: "space-around"
+​
+rubyPosition: "alternate"
+​
+rx: "auto"
+​
+ry: "auto"
+​
+scale: "none"
+​
+"scroll-behavior": "auto"
+​
+"scroll-margin": "0px"
+​
+"scroll-margin-block": "0px"
+​
+"scroll-margin-block-end": "0px"
+​
+"scroll-margin-block-start": "0px"
+​
+"scroll-margin-bottom": "0px"
+​
+"scroll-margin-inline": "0px"
+​
+"scroll-margin-inline-end": "0px"
+​
+"scroll-margin-inline-start": "0px"
+​
+"scroll-margin-left": "0px"
+​
+"scroll-margin-right": "0px"
+​
+"scroll-margin-top": "0px"
+​
+"scroll-padding": "auto"
+​
+"scroll-padding-block": "auto"
+​
+"scroll-padding-block-end": "auto"
+​
+"scroll-padding-block-start": "auto"
+​
+"scroll-padding-bottom": "auto"
+​
+"scroll-padding-inline": "auto"
+​
+"scroll-padding-inline-end": "auto"
+​
+"scroll-padding-inline-start": "auto"
+​
+"scroll-padding-left": "auto"
+​
+"scroll-padding-right": "auto"
+​
+"scroll-padding-top": "auto"
+​
+"scroll-snap-align": "none"
+​
+"scroll-snap-stop": "normal"
+​
+"scroll-snap-type": "none"
+​
+scrollBehavior: "auto"
+​
+scrollMargin: "0px"
+​
+scrollMarginBlock: "0px"
+​
+scrollMarginBlockEnd: "0px"
+​
+scrollMarginBlockStart: "0px"
+​
+scrollMarginBottom: "0px"
+​
+scrollMarginInline: "0px"
+​
+scrollMarginInlineEnd: "0px"
+​
+scrollMarginInlineStart: "0px"
+​
+scrollMarginLeft: "0px"
+​
+scrollMarginRight: "0px"
+​
+scrollMarginTop: "0px"
+​
+scrollPadding: "auto"
+​
+scrollPaddingBlock: "auto"
+​
+scrollPaddingBlockEnd: "auto"
+​
+scrollPaddingBlockStart: "auto"
+​
+scrollPaddingBottom: "auto"
+​
+scrollPaddingInline: "auto"
+​
+scrollPaddingInlineEnd: "auto"
+​
+scrollPaddingInlineStart: "auto"
+​
+scrollPaddingLeft: "auto"
+​
+scrollPaddingRight: "auto"
+​
+scrollPaddingTop: "auto"
+​
+scrollSnapAlign: "none"
+​
+scrollSnapStop: "normal"
+​
+scrollSnapType: "none"
+​
+"scrollbar-color": "auto"
+​
+"scrollbar-gutter": "auto"
+​
+"scrollbar-width": "auto"
+​
+scrollbarColor: "auto"
+​
+scrollbarGutter: "auto"
+​
+scrollbarWidth: "auto"
+​
+"shape-image-threshold": "0"
+​
+"shape-margin": "0px"
+​
+"shape-outside": "none"
+​
+"shape-rendering": "auto"
+​
+shapeImageThreshold: "0"
+​
+shapeMargin: "0px"
+​
+shapeOutside: "none"
+​
+shapeRendering: "auto"
+​
+"stop-color": "rgb(0, 0, 0)"
+​
+"stop-opacity": "1"
+​
+stopColor: "rgb(0, 0, 0)"
+​
+stopOpacity: "1"
+​
+stroke: "none"
+​
+"stroke-dasharray": "none"
+​
+"stroke-dashoffset": "0px"
+​
+"stroke-linecap": "butt"
+​
+"stroke-linejoin": "miter"
+​
+"stroke-miterlimit": "4"
+​
+"stroke-opacity": "1"
+​
+"stroke-width": "1px"
+​
+strokeDasharray: "none"
+​
+strokeDashoffset: "0px"
+​
+strokeLinecap: "butt"
+​
+strokeLinejoin: "miter"
+​
+strokeMiterlimit: "4"
+​
+strokeOpacity: "1"
+​
+strokeWidth: "1px"
+​
+"tab-size": "8"
+​
+tabSize: "8"
+​
+"table-layout": "auto"
+​
+tableLayout: "auto"
+​
+"text-align": "start"
+​
+"text-align-last": "auto"
+​
+"text-anchor": "start"
+​
+"text-combine-upright": "none"
+​
+"text-decoration": "rgb(0, 0, 0)"
+​
+"text-decoration-color": "rgb(0, 0, 0)"
+​
+"text-decoration-line": "none"
+​
+"text-decoration-skip-ink": "auto"
+​
+"text-decoration-style": "solid"
+​
+"text-decoration-thickness": "auto"
+​
+"text-emphasis": "none rgb(0, 0, 0)"
+​
+"text-emphasis-color": "rgb(0, 0, 0)"
+​
+"text-emphasis-position": "over"
+​
+"text-emphasis-style": "none"
+​
+"text-indent": "0px"
+​
+"text-justify": "auto"
+​
+"text-orientation": "mixed"
+​
+"text-overflow": "clip"
+​
+"text-rendering": "auto"
+​
+"text-shadow": "none"
+​
+"text-transform": "none"
+​
+"text-underline-offset": "auto"
+​
+"text-underline-position": "auto"
+​
+textAlign: "start"
+​
+textAlignLast: "auto"
+​
+textAnchor: "start"
+​
+textCombineUpright: "none"
+​
+textDecoration: "rgb(0, 0, 0)"
+​
+textDecorationColor: "rgb(0, 0, 0)"
+​
+textDecorationLine: "none"
+​
+textDecorationSkipInk: "auto"
+​
+textDecorationStyle: "solid"
+​
+textDecorationThickness: "auto"
+​
+textEmphasis: "none rgb(0, 0, 0)"
+​
+textEmphasisColor: "rgb(0, 0, 0)"
+​
+textEmphasisPosition: "over"
+​
+textEmphasisStyle: "none"
+​
+textIndent: "0px"
+​
+textJustify: "auto"
+​
+textOrientation: "mixed"
+​
+textOverflow: "clip"
+​
+textRendering: "auto"
+​
+textShadow: "none"
+​
+textTransform: "none"
+​
+textUnderlineOffset: "auto"
+​
+textUnderlinePosition: "auto"
+​
+top: "auto"
+​
+"touch-action": "auto"
+​
+touchAction: "auto"
+​
+transform: "none"
+​
+"transform-box": "border-box"
+​
+"transform-origin": "590px 118.433px"
+​
+"transform-style": "flat"
+​
+transformBox: "border-box"
+​
+transformOrigin: "590px 118.433px"
+​
+transformStyle: "flat"
+​
+transition: "all 0s ease 0s"
+​
+"transition-delay": "0s"
+​
+"transition-duration": "0s"
+​
+"transition-property": "all"
+​
+"transition-timing-function": "ease"
+​
+transitionDelay: "0s"
+​
+transitionDuration: "0s"
+​
+transitionProperty: "all"
+​
+transitionTimingFunction: "ease"
+​
+translate: "none"
+​
+"unicode-bidi": "isolate"
+​
+unicodeBidi: "isolate"
+​
+"user-select": "auto"
+​
+userSelect: "auto"
+​
+"vector-effect": "none"
+​
+vectorEffect: "none"
+​
+"vertical-align": "baseline"
+​
+verticalAlign: "baseline"
+​
+visibility: "visible"
+​
+webkitAlignContent: "normal"
+​
+webkitAlignItems: "normal"
+​
+webkitAlignSelf: "auto"
+​
+webkitAnimation: "0s ease 0s 1 normal none running none"
+​
+webkitAnimationDelay: "0s"
+​
+webkitAnimationDirection: "normal"
+​
+webkitAnimationDuration: "0s"
+​
+webkitAnimationFillMode: "none"
+​
+webkitAnimationIterationCount: "1"
+​
+webkitAnimationName: "none"
+​
+webkitAnimationPlayState: "running"
+​
+webkitAnimationTimingFunction: "ease"
+​
+webkitAppearance: "none"
+​
+webkitBackfaceVisibility: "visible"
+​
+webkitBackgroundClip: "border-box"
+​
+webkitBackgroundOrigin: "padding-box"
+​
+webkitBackgroundSize: "auto"
+​
+webkitBorderBottomLeftRadius: "0px"
+​
+webkitBorderBottomRightRadius: "0px"
+​
+webkitBorderImage: "none 100% / 1 / 0 stretch"
+​
+webkitBorderRadius: "0px"
+​
+webkitBorderTopLeftRadius: "0px"
+​
+webkitBorderTopRightRadius: "0px"
+​
+webkitBoxAlign: "stretch"
+​
+webkitBoxDirection: "normal"
+​
+webkitBoxFlex: "0"
+​
+webkitBoxOrdinalGroup: "1"
+​
+webkitBoxOrient: "horizontal"
+​
+webkitBoxPack: "start"
+​
+webkitBoxShadow: "none"
+​
+webkitBoxSizing: "content-box"
+​
+webkitClipPath: "none"
+​
+webkitFilter: "none"
+​
+webkitFlex: "0 1 auto"
+​
+webkitFlexBasis: "auto"
+​
+webkitFlexDirection: "row"
+​
+webkitFlexFlow: "row nowrap"
+​
+webkitFlexGrow: "0"
+​
+webkitFlexShrink: "1"
+​
+webkitFlexWrap: "nowrap"
+​
+webkitJustifyContent: "normal"
+​
+webkitLineClamp: "none"
+​
+webkitMask: "none"
+​
+webkitMaskClip: "border-box"
+​
+webkitMaskComposite: "add"
+​
+webkitMaskImage: "none"
+​
+webkitMaskOrigin: "border-box"
+​
+webkitMaskPosition: "0% 0%"
+​
+webkitMaskPositionX: "0%"
+​
+webkitMaskPositionY: "0%"
+​
+webkitMaskRepeat: "repeat"
+​
+webkitMaskSize: "auto"
+​
+webkitOrder: "0"
+​
+webkitPerspective: "none"
+​
+webkitPerspectiveOrigin: "590px 118.433px"
+​
+webkitTextFillColor: "rgb(0, 0, 0)"
+​
+webkitTextSizeAdjust: "auto"
+​
+webkitTextStroke: "0px rgb(0, 0, 0)"
+​
+webkitTextStrokeColor: "rgb(0, 0, 0)"
+​
+webkitTextStrokeWidth: "0px"
+​
+webkitTransform: "none"
+​
+webkitTransformOrigin: "590px 118.433px"
+​
+webkitTransformStyle: "flat"
+​
+webkitTransition: "all 0s ease 0s"
+​
+webkitTransitionDelay: "0s"
+​
+webkitTransitionDuration: "0s"
+​
+webkitTransitionProperty: "all"
+​
+webkitTransitionTimingFunction: "ease"
+​
+webkitUserSelect: "auto"
+​
+"white-space": "normal"
+​
+whiteSpace: "normal"
+​
+width: "1180px"
+​
+"will-change": "auto"
+​
+willChange: "auto"
+​
+"word-break": "normal"
+​
+"word-spacing": "0px"
+​
+"word-wrap": "normal"
+​
+wordBreak: "normal"
+​
+wordSpacing: "0px"
+​
+wordWrap: "normal"
+​
+"writing-mode": "horizontal-tb"
+​
+writingMode: "horizontal-tb"
+​
+x: "0px"
+​
+y: "0px"
+​
+"z-index": "auto"
+​
+zIndex: "auto"
+​
+<prototype>: CSS2PropertiesPrototype { alignContent: Getter & Setter, "align-content": Getter & Setter, alignItems: Getter & Setter, … }

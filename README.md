@@ -1,8 +1,19 @@
 # a23s1-css
-Learn Css
+
+Useful web URLs
+
+- https://cssreference.io
+- https://github.com/michalhonc/anki__decks.git
 
 
-## 1.2 Flujo y Espacio Reservado
+
+Useful commands/snippets
+
+```bash
+cd /mnt/c/Users/Biblioteca/Desktop/DEVELOPER/a23s1-css/julia_evans/
+identify file.ext
+mogrify -resize 1024x768 -format png *.bmp
+```
 
 
 
